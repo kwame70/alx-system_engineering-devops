@@ -1,0 +1,32 @@
+total 48
+drwxr-xr-x 2 root root  248 Mar 13 17:58 .
+drwxr-xr-x 6 root root  121 Mar 13 13:34 ..
+-rwxr--r-- 1 root root   32 Mar 13 14:28 0-hello_world
+-rwxr--r-- 1 root root   28 Mar 13 15:45 1-confused_smiley
+-rwxr--r-- 1 root root   29 Mar 13 15:52 2-hellofile
+-rwxr--r-- 1 root root   39 Mar 13 16:25 3-twofiles
+-rwxr--r-- 1 root root   29 Mar 13 16:34 4-lastlines
+-rwxr--r-- 1 root root   29 Mar 13 16:40 5-firstlines
+-rwxr--r-- 1 root root   39 Mar 13 17:07 6-third_line
+-rwxr--r-- 1 root root   86 Mar 13 17:37 7-file
+-rwxr--r-- 1 root root   37 Mar 13 17:58 8-cwd_state
+-rw-r--r-- 1 root root   38 Mar 13 17:15  \*\'Best
+-rw-r--r-- 1 root root 1513 Mar 13 16:00 cat
+-rw-r--r-- 1 root root    0 Mar 13 17:56 ls_cwd_content
+-rw-r--r-- 1 root root   43 Mar 13 14:20 README.md
+total 52
+drwxr-xr-x 2 root root  248 Mar 13 17:58 .
+drwxr-xr-x 6 root root  121 Mar 13 13:34 ..
+-rwxr--r-- 1 root root   32 Mar 13 14:28 0-hello_world
+-rwxr--r-- 1 root root   28 Mar 13 15:45 1-confused_smiley
+-rwxr--r-- 1 root root   29 Mar 13 15:52 2-hellofile
+-rwxr--r-- 1 root root   39 Mar 13 16:25 3-twofiles
+-rwxr--r-- 1 root root   29 Mar 13 16:34 4-lastlines
+-rwxr--r-- 1 root root   29 Mar 13 16:40 5-firstlines
+-rwxr--r-- 1 root root   39 Mar 13 17:07 6-third_line
+-rwxr--r-- 1 root root   86 Mar 13 17:37 7-file
+-rwxr--r-- 1 root root   37 Mar 13 17:58 8-cwd_state
+-rw-r--r-- 1 root root   38 Mar 13 17:15  \*\'Best
+-rw-r--r-- 1 root root 1513 Mar 13 16:00 cat
+-rw-r--r-- 1 root root  780 Mar 13 17:58 ls_cwd_content
+-rw-r--r-- 1 root root   43 Mar 13 14:20 README.md
